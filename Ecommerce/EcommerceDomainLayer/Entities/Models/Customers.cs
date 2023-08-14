@@ -16,7 +16,7 @@ namespace EcommerceDomainLayer.Entities.Models
         public int PhoneNumber { get; set; }
         public string Email { get; set; }
         [ForeignKey("CustomerAddress")]
-        public string Address { get; set; }
+        public int AddressId { get; set; }
         public bool IsDeleted { get; set; }
 
     }
