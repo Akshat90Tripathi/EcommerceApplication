@@ -1,0 +1,11 @@
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\bin\Debug\net6.0\EcommerceServiceLayer.deps.json
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\bin\Debug\net6.0\EcommerceServiceLayer.dll
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\bin\Debug\net6.0\EcommerceServiceLayer.pdb
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\obj\Debug\net6.0\EcommerceServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\obj\Debug\net6.0\EcommerceServiceLayer.AssemblyInfoInputs.cache
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\obj\Debug\net6.0\EcommerceServiceLayer.AssemblyInfo.cs
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\obj\Debug\net6.0\EcommerceServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\obj\Debug\net6.0\EcommerceServiceLayer.dll
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\obj\Debug\net6.0\refint\EcommerceServiceLayer.dll
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\obj\Debug\net6.0\EcommerceServiceLayer.pdb
+C:\Users\NINELEAPS\OneDrive\Pictures\E-Commerce\EcommerceApplication\Ecommerce\EcommerceServiceLayer\obj\Debug\net6.0\ref\EcommerceServiceLayer.dll
